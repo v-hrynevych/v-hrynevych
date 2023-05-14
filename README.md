@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hrynevych Volodymyr</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭  I’m currently working on my startup project movemate.com
+- 🔭  I’m currently working on my startup project <a href="https://movemate.com">MoveMate</a>
 
 - 📫 How to reach me **hrynevych.vol@gmail.com**
 
