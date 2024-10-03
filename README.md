@@ -1,6 +1,9 @@
 # 💫 About Me:
-## 🔭 What I'm Working On<br><br>- 🌐 Building projects with **Next.js** and **Material UI**<br>- ☕ Running **Civilization Tremont Caffee**, a local business in Cleveland<br>- 🚀 Experimenting with new tools and libraries in JavaScript
+## 🔭 What I'm Working On<br><br>- 🌐 Building projects with **Next.js**<br>- ☕ Running **Civilization Tremont Caffee**, a local business in Cleveland<br>- 🚀 Experimenting with new tools and libraries in JavaScript
 
+## ✨ Fun Facts About Me<br><br>- 🎨 I enjoy designing user-friendly and aesthetic UIs.<br>- 📚 I love reading about new technologies and tools in the web development space.<br>- ☕ I run a coffee shop and enjoy experimenting with different brews.
+
+## 🌍 I created two businesses in different countries:<br><br>1. **Special Grocery**: A unique grocery business offering specialty items.<br>2. **Online shopping**:  is a form of electronic commerce which allows consumers to directly buy goods or services from a seller over the Internet using a web browser or a mobile app
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vivahrynevych) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hrynevych.vol) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/volodymyr-hrynevych-178443210) 
